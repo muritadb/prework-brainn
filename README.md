@@ -1,14 +1,11 @@
 # Pré Work BootCamp Brainn
 > Neste repositorio estaram os exercicios do Pre Work.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 Esse projeto visa mostrar os exercicios que serão resolvidos durante a semana de pre work e ficarão disponiveis,
 foram utilizadas tecnologias como: NPM, NODEJS, Vite, YARN, HTML, CSS, JavaScript.
 
-![https://images.unsplash.com/photo-1582654344606-2b9d8f65162b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGxheWdyb3VuZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60](../header.png)
+![](https://images.unsplash.com/photo-1582654344606-2b9d8f65162b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGxheWdyb3VuZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
 
 
 
