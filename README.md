@@ -1,72 +1,43 @@
-# Nome do produto
-> Descrição curta sobre o que seu projeto faz.
+# Pré Work BootCamp Brainn
+> Neste repositorio estaram os exercicios do Pre Work.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+Esse projeto visa mostrar os exercicios que serão resolvidos durante a semana de pre work e ficarão disponiveis,
+foram utilizadas tecnologias como: NPM, NODEJS, Vite, YARN, HTML, CSS, JavaScript.
 
-![](../header.png)
 
-## Instalação
-
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
-
-## Exemplo de uso
-
-Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado. Adicione blocos de códigos e, se necessário, screenshots.
-
-_Para mais exemplos, consulte a [Wiki][wiki]._ 
 
 ## Configuração para Desenvolvimento
 
 Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
 
 ```sh
-make install
-npm test
+aqui irão ser colocados exemplos de codigos, tutoriais ...
 ```
 
 ## Histórico de lançamentos
 
-* 0.2.1
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
+
 * 0.0.1
-    * Trabalho em andamento
+    * Criação do repositorio
 
 ## Meta
 
-Seu Nome – [@SeuNome](https://twitter.com/...) – SeuEmail@exemplo.com
+Douglas Murita – [@muritadb](https://twitter.com/muritadb) – douglasb008@gmail.com
 
-Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
+Distribuído sob a licença MIT. Veja `MIT LICENSE` para mais informações.
 
-[https://github.com/yourname/github-link](https://github.com/othonalberto/)
+[https://mit-license.org/](https://mit-license.org//)
 
 ## Contributing
 
-1. Faça o _fork_ do projeto (<https://github.com/yourname/yourproject/fork>)
-2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
-3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
-4. _Push_ (`git push origin feature/fooBar`)
+1. Faça o _fork_ do projeto (<https://https://github.com/muritadb/prework-brainn/fork>)
+2. Crie uma _branch_ para sua modificação (`git checkout -b feature/exemplo`)
+3. Faça o _commit_ (`git commit -m 'Add some fooBar'`)
+4. _Push_ (`git push origin feature/exemplo`)
 5. Crie um novo _Pull Request_
 
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
