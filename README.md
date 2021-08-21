@@ -15,11 +15,6 @@ Descreva como instalar todas as dependências para desenvolvimento e como rodar 
 aqui irão ser colocados exemplos de codigos, tutoriais ...
 ```
 
-## Histórico de lançamentos
-
-
-* 0.0.1
-    * Criação do repositorio
 
 ## Meta
 
@@ -29,17 +24,3 @@ Distribuído sob a licença MIT. Veja `MIT LICENSE` para mais informações.
 
 [https://mit-license.org/](https://mit-license.org//)
 
-## Contributing
-
-1. Faça o _fork_ do projeto (<https://https://github.com/muritadb/prework-brainn/fork>)
-2. Crie uma _branch_ para sua modificação (`git checkout -b feature/exemplo`)
-3. Faça o _commit_ (`git commit -m 'Add some fooBar'`)
-4. _Push_ (`git push origin feature/exemplo`)
-5. Crie um novo _Pull Request_
-
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/seunome/seuprojeto/wiki
