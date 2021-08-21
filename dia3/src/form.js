@@ -10,12 +10,25 @@ coresBox.style.display = 'flex'
 
 
 
-const array = ["de", "da", "do", "dos"]
+const arrayIgnora = ["de", "da", "do", "dos", "das"]
+const mascara =  (word) => {
+    if(word.length == 0) {
+        return ''
+    }
+    return `${word[0].toUpperCase()}${word.slice(1).toLowerCase()}`
+}
 
 inputForm.addEventListener('input', (e) => {
-    
+    const valueAsArray = e.target.value.split(' ')
 
-    console.log("frase: ", e.target.value);
+    e.target.value = valueAsArray.map((word) => {
+        return arrayIgnora.includes(word.toLowerCase())
+            ? word.toLowerCase()
+            : mascara(word)
+        
+    }).join(' ')
+
+    console.log("frase: ", valueAsArray);
     
 }, false)
 
